@@ -1,0 +1,8 @@
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\bin\Debug\EJercicio3.exe.config
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\bin\Debug\EJercicio3.exe
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\bin\Debug\EJercicio3.pdb
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\obj\Debug\EJercicio3.csproj.AssemblyReference.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\obj\Debug\EJercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\obj\Debug\EJercicio3.csproj.CoreCompileInputs.cache
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\obj\Debug\EJercicio3.exe
+C:\Users\MikoG\source\repos\cursocsharp\seccion11\ConseptosAvanzados\EJercicio3\obj\Debug\EJercicio3.pdb

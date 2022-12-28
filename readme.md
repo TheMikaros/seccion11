@@ -1,0 +1,5 @@
+1- Crea un programa que use un diccionario, clave entera y valor string. Se pedirá por consola, un numero y un a cadena, que se ira insertando en el diccionario, hasta que se introduzca el valor "0". una vez se pulse "0", se pedirá por pantalla que se introduzca una cadena de 2 letras.  se mostrara consultando el diccionario, todas las claves que contienen esos 2 caracteres en los valores del diccionario.
+
+2- Crear un programa que tenga una clase que acepte un tipo genérico. esa clase tendrá un método que ira añadiendo a un Listado de ese tipo, todos los valores introducidos por consola.
+
+3- Crear un enumerado llamado "animales" con los siguientes valores, perro = 5, gato = 8, canario = 2, caballo = 12.  Se creara una clase Animal, con una propiedad que sea el tipo de animal.  Se pedirá por consola, un numero, si coincide con el valor del animal se pintara en pantalla "ese valor pertenece al <nombre animal>" realizar el ejercicio con todos los elementos vistos hasta la fecha (clases, funciones, enumerados, diccionarios, tuplas o lo que veamos conveniente para su resolución).
